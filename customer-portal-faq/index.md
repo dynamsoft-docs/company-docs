@@ -7,6 +7,6 @@ breadcrumbText: Customer Portal
 ---
 
 
-# Sample Folder Index Pages
+# Customer Portal Guide
 
 - [Customer Portal FAQ](faq.md)
