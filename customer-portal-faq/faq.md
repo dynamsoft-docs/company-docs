@@ -98,7 +98,7 @@ Vancouver, BC, V6G 1C9
 
 Canada
 	
-## How do I invite other contact to access the Dynamsoft license I purchased?
+## How do I invite other contact(s) to access the Dynamsoft license I purchased?
 
 Once you purchased a license, your developer may want to get the license from the portal directly.
 
