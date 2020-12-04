@@ -29,7 +29,7 @@ Please notice that the trial license is valid for 15 days and you can request th
 
 ## My company has purchased the license(s). Why do I see no license info in my account? 
 
-You are not the one who purchased the license and your email address are not one of the order contacts. Please follow the steps on [How do I invite other contact to access the Dynamsoft license I purchased?](#How-do-I-invite-other-contact-to-access-the-Dynamsoft-license-I-purchased?)
+You are not the one who purchased the license and your email address are not one of the order contacts. Please follow the steps on [How do I invite other contact to access the Dynamsoft license I purchased?](#how-do-i-invite-other-contact-to-access-the-dynamsoft-license-i-purchased?)
 
 If you are one of the order contacts, but you still cannot see the license detail of this order, please contact us <support@dynamsoft.com>. 
 
