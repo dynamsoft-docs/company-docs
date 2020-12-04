@@ -1,0 +1,12 @@
+<li><a href="{{ site.customer-portal-faq }}index.html" class="otherLinkColour">Customer Portal FAQ</a>
+    <ul>
+        {%- if page.url contains '/customer-portal-faq/' -%}
+        <li><a href="{{ site.customer-portal-faq }}faq.html" class="otherLinkColour">FAQ</a></li>
+        <!-- if there are more than one pages in this folder, you can define more <li>s here like: -->
+        <!--  
+        <li>Test1</li>
+        <li>Test2</li>
+        <li>Test3</li>
+        -->
+    </ul>
+</li>
