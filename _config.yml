@@ -29,7 +29,7 @@ docHomePage: /company/docs
 # Example variable:
 
 # sampleFolder: <firstLevelUrl>/sample-folder/
-customer-portal-faq: /company/docs/customer-portal-faq/
+customer-portal: /company/docs/customer-portal/
 
 
 # public resources.

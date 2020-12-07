@@ -39,10 +39,10 @@
                     <ul class="mainPage" id="fullTreeMenuListContainer" name="listLevel1">
                         <!-- Add your side list tree here, an example given following. -->
                         <!-- site.xxx is the varible defined in _config.yml -->
-                        <li><a href="{{ site.customer-portal-faq }}index.html" class="otherLinkColour">Customer Portal</a>
+                        <li><a href="{{ site.customer-portal }}index.html" class="otherLinkColour">Customer Portal</a>
                             <ul>
-                                {%- if page.url contains '/customer-portal-faq/' -%}
-                                <li><a href="{{ site.customer-portal-faq }}faq.html" class="otherLinkColour">FAQ</a></li>
+                                {%- if page.url contains '/customer-portal/' -%}
+                                <li><a href="{{ site.customer-portal }}faq.html" class="otherLinkColour">FAQ</a></li>
                                 <!-- if there are more than one pages in this folder, you can define more <li>s here like: -->
                                 <!--  
                                 <li>Test1</li>

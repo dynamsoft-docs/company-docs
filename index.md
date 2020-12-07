@@ -9,6 +9,6 @@ description: Documentation Homepage
 
 # Company Documentation
 
-- [Customer Portal FAQ](customer-portal-faq/)
-    - [FAQ](customer-portal-faq/faq.md)
+- [Customer Portal FAQ](customer-portal/)
+    - [FAQ](customer-portal/faq.md)
     
