@@ -8,14 +8,14 @@ needAutoGenerateSidebar: true
 ---
 
 
-# My company has purchased the license(s). Why do I see no license info in my account? 
+## My company has purchased the license(s). Why do I see no license info in my account? 
 
 You are not the one who purchased the license and your email address is not one of the order contacts. Please follow the steps on [How do I invite other contact to access the Dynamsoft license I purchased?](#how-do-i-invite-other-contacts-to-access-the-dynamsoft-license-i-purchased)
 
 If you are one of the order contacts, but you still cannot see the license detail of this order, please contact us <support@dynamsoft.com>. 
 
 	
-# How do I invite other contact(s) to access the Dynamsoft license I purchased?
+## How do I invite other contact(s) to access the Dynamsoft license I purchased?
 
 Once you purchased a license, your developer may want to get the license from the portal directly.
 
@@ -43,11 +43,11 @@ Step 2:
 
 The person who is invited will receive an Invite Confirm Email. Once he/she confirms, he/she will be listed on "User List", then repeat the process in Case 1.
 
-# How can I remove my account? 
+## How can I remove my account? 
 
 Please contact us via email <sales@dynamsoft.com> to remove the account.
 
-# Can I change the email address of my Dynamsoft account?
+## Can I change the email address of my Dynamsoft account?
 
 No, you cannot do it in the customer portal. Please contact to <sales@dynamsoft.com>.
 

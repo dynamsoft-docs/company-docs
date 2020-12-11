@@ -7,17 +7,17 @@ breadcrumbText: Quote
 needAutoGenerateSidebar: true
 ---
 
-# Where to request a quote
+## Where to request a quote
 
 You can request a quote on each of our product purchase pages.
 
 [Go to Dynamsoft Purchase Center](https://www.dynamsoft.com/Support/How-to-purchase-Dynamsoft-products.aspx)
 
-# How can I pay for a quote
+## How can I pay for a quote
 
 If you have received an official quote, you can pay the quote in several ways.
 
-## Pay it online:
+### Pay it online:
 
 - Method One:
 After logging into the portal, you will find "Quote" on the left menu list. There would be quote(s) listed on "Unconverted" tab. Please choose the one you want to pay and click "Proceed to Payment" button, then you will go to the payment page.
@@ -34,7 +34,7 @@ On the quote pdf, you will find a link listed on "Payment Options", you can use 
 
 ![Pay-Quote2]({{site.assets}}img/Pay-Quote-3.png)
 
-## Pay it via Wire Transfer or Check
+### Pay it via Wire Transfer or Check
 
 Please check the payment info in "Payment Options" 1 & 3  on the quote pdf.
 

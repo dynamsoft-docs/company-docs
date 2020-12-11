@@ -7,13 +7,13 @@ breadcrumbText: Email Notification
 needAutoGenerateSidebar: true
 ---
 
-# How to subscribe Newsletter
+## How to subscribe Newsletter
 
 Subscribe to our newsletter at the bottom of [our website page](https://www.dynamsoft.com/).
 
 ![Subscribe1]({{site.assets}}img/Subscribe-1.png)
 
-# How can I edit my email address or add a new email address for license/maintenance renewal notification
+## How can I edit my email address or add a new email address for license/maintenance renewal notification
 
 You need to change the contacts of the corresponding order. All contacts will receive the renewal notification.
 
@@ -41,7 +41,7 @@ Step 2:
 
 The person who is invited will receive an Invite Confirm Email. Once he/she confirms, he/she will be listed on "User List", then repeat the process in Case 1.
 
-# How to unsubscribe the renewal notification
+## How to unsubscribe the renewal notification
 
 If the contact(s) is removed from the order contacts, the person cannot check the license detail of this order any more. If you just do not want to receive the renewal notification, please just unsubscribe it. 
 

@@ -8,7 +8,7 @@ needAutoGenerateSidebar: true
 ---
 
 
-# How can I request a free trial license for Dynamsoft's SDK product
+## How can I request a free trial license for Dynamsoft's SDK product
 
 After logging into the [Customer Portal](https://www.dynamsoft.com/customer/), you will find "License" on the left menu list.
 

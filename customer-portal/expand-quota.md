@@ -7,7 +7,7 @@ breadcrumbText: Expand Quota
 needAutoGenerateSidebar: true
 ---
 
-# How do I expand quota of my runtime license?
+## How do I expand quota of my runtime license?
 
 You can go to **"License - Full License"** and find the runtime license which you want to expand quota. Click "License Id" to go to License Detail page.
 
