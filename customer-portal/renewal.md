@@ -7,6 +7,8 @@ breadcrumbText: Renewal
 needAutoGenerateSidebar: true
 ---
 
+# Renew Maintenance or Annual License
+
 ## How do I renew my software maintenance with Dynamsoft
 
 When the maintenance of your license expires in 90 days, you will begin to receive our renewal reminder emails. We usually send a series of maintenance renewal follow-up emails (90 days before expiration, 60 days, 30 days, 14 days, 7 days, and the expiry date) to the order contacts. 

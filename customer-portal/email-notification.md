@@ -7,6 +7,8 @@ breadcrumbText: Email Notification
 needAutoGenerateSidebar: true
 ---
 
+# Email Notification
+
 ## How to subscribe Newsletter
 
 Subscribe to our newsletter at the bottom of [our website page](https://www.dynamsoft.com/).

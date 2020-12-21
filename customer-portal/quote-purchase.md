@@ -7,6 +7,8 @@ breadcrumbText: Quote
 needAutoGenerateSidebar: true
 ---
 
+# Purchase by a quote
+
 ## Where to request a quote
 
 You can request a quote on each of our product purchase pages.

@@ -7,6 +7,7 @@ breadcrumbText: FAQ
 needAutoGenerateSidebar: true
 ---
 
+# FAQ
 
 ## My company has purchased the license(s). Why do I see no license info in my account? 
 

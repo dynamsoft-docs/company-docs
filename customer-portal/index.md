@@ -14,7 +14,7 @@ breadcrumbText: Customer Portal
 This  helps you to learn more about Dynamsoft customer portal.
 
 - [Request a trial license](trial-license.md)
-- [Purchase by quote](quote-purchase.md)
+- [Purchase by a quote](quote-purchase.md)
 - [Get full license and product](full-license.md)
 - [Request upgrade](request-upgrade.md)
 - [Renew maintenance or license](renewal.md)

@@ -7,6 +7,8 @@ breadcrumbText: Upgrade License
 needAutoGenerateSidebar: true
 ---
 
+# Request Upgrade 
+
 ## Can I upgrade my license(s) for free
 
 If the maintenance of your license(s) is valid, you can request to upgrade it for free. Otherwise, you need to pay for the upgrade.

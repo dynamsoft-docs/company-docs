@@ -7,6 +7,7 @@ breadcrumbText: Manage Contacts
 needAutoGenerateSidebar: true
 ---
 
+# Manage Contacts
 	
 ## How do I invite other contact(s) to collaborate
 

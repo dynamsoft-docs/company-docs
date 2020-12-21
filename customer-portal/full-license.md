@@ -7,6 +7,8 @@ breadcrumbText: Full License & SDK Download Link
 needAutoGenerateSidebar: true
 ---
 
+# Full License
+
 ## How to view and activate the purchased license(s)
 
 You can find your purchased license(s) in **[Customer Portal](https://www.dynamsoft.com/customer/) - License - Full License**. 

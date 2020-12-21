@@ -7,6 +7,7 @@ breadcrumbText: Trial License
 needAutoGenerateSidebar: true
 ---
 
+# Trial License
 
 ## How can I request a free trial license for Dynamsoft's SDK product
 
