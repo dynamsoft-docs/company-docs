@@ -9,7 +9,7 @@ needAutoGenerateSidebar: true
 
 # Manage Contacts
 	
-## How do I invite other contact(s) to collaborate
+## Invite other contact(s) to collaborate
 
 Please go to "Account Setting" - "Contacts", fill in the email address and choose the specified company, then click "Invite".  
 
@@ -18,7 +18,7 @@ Please go to "Account Setting" - "Contacts", fill in the email address and choos
 The person who is invited will receive an Invite Confirm Email. Once he/she confirms, he/she will be one user of your company account.
 
 
-## How do I remove contacts from Dynamsoft account if they are no longer with our company
+## Remove contacts from Dynamsoft account if they are no longer with our company
 
 Please go to "Account Setting" - "Profile" and click "More Details" under "Company Info".
 

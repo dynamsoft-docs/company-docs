@@ -9,7 +9,7 @@ needAutoGenerateSidebar: true
 
 # Renew Maintenance or Annual License
 
-## How do I renew my software maintenance with Dynamsoft
+## Renew the software maintenance with Dynamsoft
 
 When the maintenance of your license expires in 90 days, you will begin to receive our renewal reminder emails. We usually send a series of maintenance renewal follow-up emails (90 days before expiration, 60 days, 30 days, 14 days, 7 days, and the expiry date) to the order contacts. 
 
@@ -21,7 +21,7 @@ You can check all or one of them to renew.
 
 You can also send email <sales@dynamsoft.com> to ask for official quote or proforma invoice to process the renewal order. 
 
-## How do I renew my annual license
+## Renew the annual license
 
 When your license(s) expires in 90 days, you will begin to receive our renewal reminder emails. We usually send a series of annual license renewal follow-up emails (90 days before expiration, 60 days, 30 days, 14 days, 7 days, and the expiry date) to the order contacts. 
 
@@ -33,11 +33,11 @@ You can check all or one of them to renew.
 
 You can also send email <sales@dynamsoft.com> to ask for official quote or proforma invoice to process the renewal order.
 
-## Can I renew the item which has expired
+## Renew the item which has expired
 
 Please contact us via email <support@dynamsoft>.
 
-## How can I align renewal date for multiple orders
+## Align renewal date for multiple orders
 
 Please contact us via email <support@dynamsoft>.
 

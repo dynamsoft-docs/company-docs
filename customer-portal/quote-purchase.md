@@ -9,13 +9,13 @@ needAutoGenerateSidebar: true
 
 # Purchase by a quote
 
-## Where to request a quote
+## Request a quote
 
 You can request a quote on each of our product purchase pages.
 
 [Go to Dynamsoft Purchase Center](https://www.dynamsoft.com/Support/How-to-purchase-Dynamsoft-products.aspx)
 
-## How can I pay for a quote
+## Pay for a quote
 
 If you have received an official quote, you can pay the quote in several ways.
 
