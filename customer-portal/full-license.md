@@ -24,3 +24,5 @@ For some Dynamsoft Barcode Reader Licenses, you need to activate them before usi
 You can go to **[Customer Portal](https://www.dynamsoft.com/customer/) - Order - My Orders - Order Detail** and the full SDK download links are listed.
 
 ![SDK-Download1]({{site.assets}}img/SDK-Download-1.png)
+
+You can also find download links for older versions of our products in the  **[Download Center](https://www.dynamsoft.com/customer/download) - Download Center - Download Products** 
