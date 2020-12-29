@@ -22,7 +22,7 @@ If you have received an official quote, you can pay the quote in several ways.
 ### Pay it online:
 
 - Method One:
-After logging into the portal, you will find "Quote" on the left menu list. There would be quote(s) listed on "Unconverted" tab. Please choose the one you want to pay and click "Proceed to Payment" button, then you will go to the payment page.
+After logging into the portal, you will find "Quote" on the left menu list.  Please choose the one you want to pay and click "Proceed to Payment" button, then you will go to the payment page.
 
 ![Pay-Quote1]({{site.assets}}img/Pay-Quote-1.png)
 
