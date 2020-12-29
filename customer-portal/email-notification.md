@@ -9,7 +9,7 @@ needAutoGenerateSidebar: true
 
 # Email Notification
 
-## Subscribe Newsletter
+## Subscribe to Newsletter
 
 Subscribe to our newsletter at the bottom of [our website page](https://www.dynamsoft.com/).
 
@@ -43,9 +43,9 @@ Step 2:
 
 The person who is invited will receive an Invite Confirm Email. Once he/she confirms, he/she will be listed on "User List", then repeat the process in Case 1.
 
-## Unsubscribe the renewal notification
+## Unsubscribe from the renewal notification
 
-If the contact(s) is removed from the order contacts, the person cannot check the license detail of this order any more. If you just do not want to receive the renewal notification, please just unsubscribe it. 
+If the contact(s) is removed from the order contacts, the person cannot check the license detail of this order any more. If you simply wish to no longer receive the renewal emails, please unsubscribe from the list by clicking the link in the email itself. 
 
 ![Unsubscribe1]({{site.assets}}img/Unsubscribe-1.png)
 
