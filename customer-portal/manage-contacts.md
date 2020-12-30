@@ -20,14 +20,15 @@ The person who is invited will receive an Invite Confirm Email. Once he/she conf
 
 ## Remove contacts from Dynamsoft account if they are no longer with our company
 
-Please go to "Account Setting" - "Profile" and click "More Details" under "Company Info".
+Note - This operation can only be done by the admin, or primary, contact of the account. The admin contact can log in and give admin rights to a different user if necessary but 
+there can only be one admin at a time.
 
-![User-List1]({{site.assets}}img/Invite-Contact-1.png)
+Please go to "Account Setting" - "Profile" and click "More Details" under "Company Info".
 
 You will find "User List" of your company.
 
-- If you are the Admin user for your company you can remove the user(s) from the list.
+If you are the admin user, there will be options to delete other users or to set them as account administrators.
 
-- If you are not the Admin user, please ask Admin user to operate.
+![User-List1]({{site.assets}}img/Invite-Contact-1.png)
 
-- If you are not the Admin user and the Admin is the one who leaves your company, please ask the Admin user to handover the admin to you. Then you will be the Admin user for your company.
+If you are not the Admin user and the Admin is the one who leaves your company, please ask the Admin user to handover the admin to you. Then you will be the Admin user for your company. If this is not a possibility, please send an email to support@dynamsoft.com explaining the scenario including who the current admin contact is and who you would like it switched to.

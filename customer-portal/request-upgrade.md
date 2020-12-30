@@ -9,7 +9,7 @@ needAutoGenerateSidebar: true
 
 # Request Upgrade 
 
-## Upgrade the license(s) for free
+## Check Maintenance Status to Determine if Upgrade is Free
 
 If the maintenance of your license(s) is valid, you can request to upgrade it for free. Otherwise, you need to pay for the upgrade.
 
