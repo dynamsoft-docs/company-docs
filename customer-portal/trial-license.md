@@ -27,4 +27,4 @@ Choose the correct product and click "Request Trial License".
 
 You can find the requested trial license(s) on "Requested License" tab.
 
-Please notice that the trial license is valid for 15 days and you can request the trial key twice in total for each product.
+Please notice that the trial license is valid for 15 days and you can request the trial key three times in total for each product.
