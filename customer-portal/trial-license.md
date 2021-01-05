@@ -11,6 +11,10 @@ needAutoGenerateSidebar: true
 
 ## Request a free trial license for Dynamsoft's SDK products
 
+When you download the SDK from Dynamsoft.com, there is a folder containing several samples/examples. The license keys within these samples are valid for 30 days.
+
+## Request a trial extension
+
 After logging into the [Customer Portal](https://www.dynamsoft.com/customer/), you will find "License" on the left menu list.
 
 ![License-TrialLicense1]({{site.assets}}img/License-Trial-1.png)
