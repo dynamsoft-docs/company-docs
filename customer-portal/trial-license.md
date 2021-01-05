@@ -13,6 +13,8 @@ needAutoGenerateSidebar: true
 
 When you download the SDK from Dynamsoft.com, there is a folder containing several samples/examples. The license keys within these samples are valid for 30 days.
 
+**[Download Free Trial](https://www.dynamsoft.com/downloads/)** 
+
 ## Request a trial extension
 
 After logging into the [Customer Portal](https://www.dynamsoft.com/customer/), you will find "License" on the left menu list.
@@ -28,3 +30,5 @@ Choose the correct product and click "Request Trial License".
 You can find the requested trial license(s) on "Requested License" tab.
 
 Please notice that the trial license is valid for 15 days and you can request the trial key three times in total for each product.
+
+*If you want to extend the trial license for Dynamsoft products other than Dynamic Web TWAIN and Dynamsoft Barcode Reader, please contact <support@dynamsoft.com>.*
