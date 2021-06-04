@@ -25,10 +25,13 @@ Please select "Trial License" and you will see the page where you can request th
 
 ![License-TrialLicense2]({{site.assets}}img/License-Trial-2.png)
 
-Choose the correct product and click "Request Trial License".
+Choose the correct product and click "Request for a 30-Day Trial".
 
-You can find the requested trial license(s) on "Requested License" tab.
+Please notice that the trial license is valid for 30 days and you can extend the trial key twice in total for each product. 
 
-Please notice that the trial license is valid for 15 days and you can request the trial key three times in total for each product.
+You can extend the trial 3 days before it expires and thereafter.
 
-*If you want to extend the trial license for Dynamsoft products other than Dynamic Web TWAIN and Dynamsoft Barcode Reader, please contact <support@dynamsoft.com>.*
+![License-TrialLicense3]({{site.assets}}img/License-Trial-3.png)
+
+
+*If you want to request or extend the trial license for SourceAnywhere, please contact <support@dynamsoft.com>.*
