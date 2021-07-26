@@ -32,6 +32,6 @@ jobs:
           cd company-docs && git pull && cd .. && cp -rfp ./company-docs/* ./CompanyDoc/
           cd Docs-Template-Repo && git pull && cd .. && cp -rfp ./Docs-Template-Repo/* ./CompanyDoc/
           cd CompanyDoc && bundle exec jekyll build --incremental
-          python3 /home/ubuntu/ftp.py /home/ubuntu/CompanyDoc/_site/ ./www.dynamsoft.com/company/docs/
+          python3 /home/ubuntu/ftp.py /home/ubuntu/CompanyDoc/_site/ ./www.dynamsoft.com/company/docs/ prod
 
           
