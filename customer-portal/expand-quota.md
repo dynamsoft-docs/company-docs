@@ -21,3 +21,5 @@ By clicking it, you will go to Check Out page.
 
 After confirming the product and quantity, please fill in Billing Details and then click "Check Out". Expand quota will be successful after you finish the payment.
 
+You can also send email <sales@dynamsoft.com> to ask for official quote or proforma invoice to process the Expand order.
+
