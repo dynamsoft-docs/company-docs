@@ -11,15 +11,13 @@ needAutoGenerateSidebar: true
 
 ## Expand quota of the runtime license?
 
-You can go to **"License - Full License"** and find the runtime license which you want to expand quota. Click "License Id" to go to License Detail page.
+You can go to **"License - Full License"** and find the runtime license which you want to expand quota. You will find "Add Quota" button in the drop-down button of "Manage License". 
 
 ![Add-Quota1]({{site.assets}}img/Add-Quota-1.png)
 
-You will find "Add Quota" button on License Detail page. By clicking it, you will go to Check Out page.  
+By clicking it, you will go to Check Out page.  
 
 ![Add-Quota2]({{site.assets}}img/Add-Quota-2.png)
-
-![Add-Quota3]({{site.assets}}img/Add-Quota-3.png)
 
 After confirming the product and quantity, please fill in Billing Details and then click "Check Out". Expand quota will be successful after you finish the payment.
 

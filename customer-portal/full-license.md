@@ -11,17 +11,14 @@ needAutoGenerateSidebar: true
 
 ## View and activate the purchased license(s)
 
-You can find your purchased license(s) in **[Customer Portal](https://www.dynamsoft.com/customer/) - License - Full License**. 
+You can find your purchased license(s) in **[Customer Portal](https://www.dynamsoft.com/customer/) - License - Full License**. For some licenses, you need to activate them before using it. 
 
 ![Full-License1]({{site.assets}}img/Full-License-1.png)
 
-For some Dynamsoft Barcode Reader Licenses, you need to activate them before using it. 
-
-![Full-License2]({{site.assets}}img/Full-License-2.png)
 
 ## Get the full SDK download link of the relevant product
 
-You can go to **[Customer Portal](https://www.dynamsoft.com/customer/) - Order - My Orders - Order Detail** and the full SDK download links are listed.
+You can find the full SDK download link by clicking "Detail" - "Download SDK".
 
 ![SDK-Download1]({{site.assets}}img/SDK-Download-1.png)
 
