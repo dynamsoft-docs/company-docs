@@ -11,9 +11,13 @@ needAutoGenerateSidebar: true
 
 ## View and activate the purchased license(s)
 
-You can find your purchased license(s) in **[Customer Portal](https://www.dynamsoft.com/customer/) - License - Full License**. For some licenses, you need to activate them before using it. 
+You can find your purchased license(s) in **[Customer Portal](https://www.dynamsoft.com/customer/) - License - Full License**. 
 
 ![Full-License1]({{site.assets}}img/Full-License-1.png)
+
+For some licenses, you need to activate them before using it. 
+
+![Full-License2]({{site.assets}}img/Full-License-2.png)
 
 
 ## Get the full SDK download link of the relevant product
