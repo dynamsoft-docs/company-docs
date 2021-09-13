@@ -17,7 +17,7 @@ This  helps you to learn more about Dynamsoft customer portal.
 - [Purchase by a quote](quote-purchase.md)
 - [Get full license and product](full-license.md)
 - [Request upgrade](request-upgrade.md)
-- [Renew maintenance or license](renewal.md)
+- [Renew license or maintenance](renewal.md)
 - [Expand quota of runtime license](expand-quota.md)
 - [Manage contacts](manage-contacts.md)
 - [Email notification](email-notification.md)

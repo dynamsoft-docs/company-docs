@@ -14,7 +14,7 @@ description: Documentation Homepage
     - [Purchase by a quote](customer-portal/quote-purchase.md)
     - [Get full license and product](customer-portal/full-license.md)
     - [Request upgrade](customer-portal/request-upgrade.md)
-    - [Renew maintenance or license](customer-portal/renewal.md)
+    - [Renew license or maintenance](customer-portal/renewal.md)
     - [Expand quota of runtime license](customer-portal/expand-quota.md)
     - [Manage contacts](customer-portal/manage-contacts.md)
     - [Email notification](customer-portal/email-notification.md)
