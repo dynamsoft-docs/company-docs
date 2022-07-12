@@ -13,7 +13,7 @@ needAutoGenerateSidebar: true
 
 If the maintenance of your license(s) is valid, you can request to upgrade it for free. Otherwise, you need to pay for the upgrade.
 
-You can check the maintenance of your license(s) in **[Customer Portal](https://www.dynamsoft.com/customer/) - License - Full License**. "Usage/Service Expiry Date" for each license means the license or maintenance expiry date.
+You can check the maintenance of your license(s) in **[Customer Portal - License - Full License](https://www.dynamsoft.com/customer/license/fullLicense)**. "Usage/Service Expiry Date" for each license means the license or maintenance expiry date.
 
 ![Service-Expiry1]({{site.assets}}img/Service-Expiry-1.png)
 
