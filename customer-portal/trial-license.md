@@ -21,7 +21,7 @@ After logging into the [Customer Portal](https://www.dynamsoft.com/customer/), y
 
 ![License-TrialLicense1]({{site.assets}}img/License-Trial-1.png)
 
-Please select ["Trial License"](https://www.dynamsoft.com/customer/license/trialLicense) and you will see the page where you can request the trial license.
+Please select "Trial License" and you will see the page where you can request the trial license.
 
 ![License-TrialLicense2]({{site.assets}}img/License-Trial-2.png)
 
