@@ -23,7 +23,7 @@ When there are 90 days left on your annual license, you will begin to receive ou
 
     ![Renew-License-0-2]({{site.assets}}img/Renew-License-0-2.png)
 
-- **Method TWo**
+- **Method Two**
 
     You can go to "Order" - "Upcoming Renewal" and check "Renew Annual License" tab. You will find all the license(s) which could be renewed.
 
