@@ -2,7 +2,7 @@
 layout: default-layout
 title: FAQ
 keywords: Customer Portal, FAQ
-description: This page is about general FAQ for Customer Portal.
+description: Documentation page of General FAQ for Customer Portal.
 breadcrumbText: FAQ
 needAutoGenerateSidebar: true
 ---
