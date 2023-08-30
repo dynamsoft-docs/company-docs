@@ -34,4 +34,9 @@ jobs:
           cd CompanyDoc && bundle exec jekyll build --incremental
           python3 /home/ubuntu/ftp.py /home/ubuntu/CompanyDoc/_site/ ./www.dynamsoft.com/company/docs/ prod
 
+      - name: Trigger Webhook 
+        run: | 
+          curl -X POST -H "${{ secrets.WEBHOOK_USER }}" -H "${{ secrets.WEBHOOK_TOKEN }}" -H "Content-Type: application/json" -d "[\"/company/docs/*\"]" ${{ secrets.WEBHOOK_URL }}
+
+
           
