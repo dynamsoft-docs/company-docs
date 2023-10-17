@@ -27,16 +27,27 @@ jobs:
       - name: Run a multi-line script
         run: |
           cd /home/ubuntu
+          [ -d CompanyDoc ] && rm -rf CompanyDoc
+          [ -d company-docs ] && rm -rf company-docs
+          [ -d Docs-Template-Repo-Old-Master ] && rm -rf Docs-Template-Repo-Old-Master
           [ ! -d CompanyDoc ] && mkdir -p CompanyDoc
-          [ ! -d company-docs ] && git clone --depth 1 https://github.com/Dynamsoft/company-docs.git
-          cd company-docs && git pull && cd .. && cp -rfp ./company-docs/* ./CompanyDoc/
-          cd Docs-Template-Repo && git pull && cd .. && cp -rfp ./Docs-Template-Repo/* ./CompanyDoc/
-          cd CompanyDoc && bundle exec jekyll build --incremental
+          git clone --depth 1 https://github.com/dynamsoft-docs/company-docs.git company-docs
+          git clone --depth 1 --branch old-master https://github.com/dynamsoft-docs/Docs-Template-Repo.git Docs-Template-Repo-Old-Master
+          cp -rfp ./company-docs/* ./CompanyDoc/
+          cp -rfp ./Docs-Template-Repo-Old-Master/* ./CompanyDoc/
+          cd CompanyDoc && bundle install && bundle exec jekyll build
+
           python3 /home/ubuntu/ftp.py /home/ubuntu/CompanyDoc/_site/ ./www.dynamsoft.com/company/docs/ prod
 
       - name: Trigger Webhook 
         run: | 
           curl -X POST -H "${{ secrets.WEBHOOK_USER }}" -H "${{ secrets.WEBHOOK_TOKEN }}" -H "Content-Type: application/json" -d "[\"/company/docs/*\"]" ${{ secrets.WEBHOOK_URL }}
 
+      - name: Run a multi-line script
+        run: |
+          cd /home/ubuntu
+          [ -d CompanyDoc ] && rm -rf CompanyDoc
+          [ -d company-docs ] && rm -rf company-docs
+          [ -d Docs-Template-Repo-Old-Master ] && rm -rf Docs-Template-Repo-Old-Master
 
           
