@@ -2,7 +2,7 @@
 layout: default-layout
 title: Renew Annual License or Maintenance
 keywords: renewal, maintenance, annual license
-description: This page is about general FAQ for Customer Portal.
+description: This page is about renewal for Customer Portal.
 breadcrumbText: Renewal
 needAutoGenerateSidebar: true
 ---
