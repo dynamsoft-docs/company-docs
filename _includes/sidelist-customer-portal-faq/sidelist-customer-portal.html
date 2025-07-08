@@ -1,5 +1,6 @@
 <li><a href="{{ site.customer-portal }}index.html" class="otherLinkColour">Customer Portal</a>
     <ul>
+        {%- if page.url contains '/customer-portal/' -%}
         <li><a href="{{ site.customer-portal }}trial-license.html" class="otherLinkColour">Request a trial license</a></li>
         <li><a href="{{ site.customer-portal }}quote-purchase.html" class="otherLinkColour">Purchase by a quote</a></li>
         <li><a href="{{ site.customer-portal }}full-license.html" class="otherLinkColour">Get full license and product</a></li>
@@ -9,5 +10,12 @@
         <li><a href="{{ site.customer-portal }}manage-contacts.html" class="otherLinkColour">Manage contacts</a></li>
         <li><a href="{{ site.customer-portal }}email-notification.html" class="otherLinkColour">Email notification</a></li>
         <li><a href="{{ site.customer-portal }}faq.html" class="otherLinkColour">FAQ</a></li>
+        <!-- if there are more than one pages in this folder, you can define more <li>s here like: -->
+        <!--  
+        <li>Test1</li>
+        <li>Test2</li>
+        <li>Test3</li>
+        -->
+        {%- endif -%}
     </ul>
 </li>
