@@ -81,7 +81,7 @@ See: [Quota Expansion Guide](/customer-portal/expand-quota.md)
 ### How do I request a quote and complete payment?
 
 You can request a quote in the [Purchase Center](https://www.dynamsoft.com/Support/How-to-purchase-Dynamsoft-products.aspx), and pay online via the Customer Portal or the link in your quote email.  
-See: [How to Purchase by Quote](/customer-portal/purchase-by-quote.md)
+See: [How to Purchase by Quote](/customer-portal/quote-purchase.md)
 
 ---
 
