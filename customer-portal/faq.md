@@ -138,7 +138,7 @@ Please contact [sales@dynamsoft.com](mailto:sales@dynamsoft.com) to request acco
 ### How do I request or extend a trial license?
 
 Request a free trial or extension via the **Trial License** section in the Customer Portal. Most trials can be extended up to two times.  
-See: [Trial License Guide](/customer-portal/request-trial-license.md)
+See: [Trial License Guide](/customer-portal/trial-license.md)
 
 ![License-TrialLicense1]({{site.assets}}img/customer-portal-trial-license.png)
 
