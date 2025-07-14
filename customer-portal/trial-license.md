@@ -15,14 +15,14 @@ When you download an SDK from **[Dynamsoft](https://www.dynamsoft.com/downloads/
 
 ---
 
-### 1. Downloading the SDK
+### Downloading the SDK
 - Visit the [Dynamsoft Downloads](https://www.dynamsoft.com/downloads/) page.
 - Download the SDK you wish to evaluate.
 - The downloaded package contains sample projects with built-in trial license keys, valid for 30 days.
 
 ---
 
-### 2. Requesting a Trial License or Extension
+### Requesting a Trial License or Extension
 If you need a new trial key or want to extend your trial, follow these steps:
 
 **Step 1: Log in to the [Dynamsoft Customer Portal](https://www.dynamsoft.com/customer/).**
@@ -42,7 +42,7 @@ Your trial license key will be sent to your email shortly.
 
 ---
 
-### 3. Trial License Key Management
+### Trial License Key Management
 
 - All your trial keys, their expiry dates, and extension options are displayed in the Customer Portal under "Trial License."
 - You can copy a license key to your clipboard by clicking on it.
