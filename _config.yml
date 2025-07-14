@@ -32,6 +32,7 @@ docHomePage: /company/docs
 # sampleFolder: <firstLevelUrl>/sample-folder/
 customer-portal: /company/docs/customer-portal/
 
+useVersionTree: true
 
 # public resources.
 
