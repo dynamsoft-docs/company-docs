@@ -12,14 +12,7 @@ needAutoGenerateSidebar: true
 ## License Management
 
 ### My company has purchased a license. Why don’t I see any license info in my account?
-
 You are likely not listed as an order contact for that license. Only users added to the **order’s contact list** can view license details.  
-See: [How do I get access to a purchased license?](#how-do-i-get-access-to-a-purchased-license)
-
----
-
-### How do I get access to a purchased license or invite others?
-
 1. **Admin or Primary User:** Invite the user to your company account via **Account Management > Users**.  
 [Detailed Guide: How to Invite Others to Your Organization](manage-contacts.md#how-to-invite-others-to-your-organization)
 ![Invite Contact]({{site.assets}}img/customer-portal-account-contacts-1.png)
