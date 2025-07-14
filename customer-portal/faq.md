@@ -63,7 +63,7 @@ For more, see: [Renewal Guide](/customer-portal/renewal.md)
 - **Annual licenses:** Free upgrades for all valid annual licenses.
 - **Perpetual licenses:** Free upgrade if maintenance is still valid.
 
-See: [Upgrade Guide](/customer-portal/upgrade.md)
+See: [Upgrade Guide](/customer-portal/request-upgrade.md)
 
 ---
 
