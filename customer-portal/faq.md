@@ -13,10 +13,10 @@ needAutoGenerateSidebar: true
 
 ### My company has purchased a license. Why don’t I see any license info in my account?
 You are likely not listed as an order contact for that license. Only users added to the **order’s contact list** can view license details.  
-1. **Admin or Primary User:** Invite the user to your company account via **Account Management > Users**.  
+1. Let others on the contact list to invite you to your company account via **Account Management > Users**.  
 [Detailed Guide: How to Invite Others to Your Organization](manage-contacts.md#how-to-invite-others-to-your-organization)
 ![Invite Contact]({{site.assets}}img/customer-portal-account-contacts-1.png)
-2. **Admin or Primary User:** Add them to the specific order’s contact list via **Order > My Orders > Manage Contacts**.  
+2. They also need to add you to the specific order’s contact list via **Order > My Orders > Manage Contacts**.  
 Only after these steps will they see license/order details and receive relevant email notifications.
 [Detailed Guide: How to Add Users to a Specific Order](manage-contacts.md#how-to-add-users-to-a-specific-order)
 ![Order Contact List]({{site.assets}}img/customer-portal-account-contacts-2.png)
@@ -25,7 +25,7 @@ Only after these steps will they see license/order details and receive relevant 
 
 ### What is the difference between company contacts and order contacts?
 
-- **Company contacts** have access to account management and can be assigned as admins.
+- **Company contacts** have access to account management and can be assigned as primary user.
 - **Order contacts** are specific to each purchase/order, and only these users can view license details or receive license/renewal reminders for that order.
 
 ---
@@ -100,7 +100,7 @@ To unsubscribe from marketing emails, click the **unsubscribe** link in any mark
 Only order contacts receive renewal notifications.  
 To unsubscribe, either:
 - Click the unsubscribe link in a renewal reminder email, **or**
-- Ask your admin to remove you from the order contacts.
+- Ask other people in your organization to remove you from the order contacts.
 
 ![Unsubscribe Example]({{site.assets}}img/Unsubscribe-1.png)
 
@@ -108,9 +108,9 @@ To unsubscribe, either:
 
 ## Account Management
 
-### How do I change the primary contact (admin) for my organization?
+### How do I change the primary contact for my organization?
 
-Only the current primary contact can assign a new primary contact. If the admin has left and cannot make the change, email [support@dynamsoft.com](mailto:support@dynamsoft.com) for help.
+Only the current primary contact can assign a new primary contact. If the current primary contact has left and cannot make the change, email [support@dynamsoft.com](mailto:support@dynamsoft.com) for help.
 
 ---
 

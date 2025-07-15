@@ -47,7 +47,7 @@ This guide explains how to check license quota usage for your Dynamsoft licenses
 Quota usage shows how much of your license’s total allocation (devices, scans, etc.) you have used.
 
 **Why don’t I see usage details?**  
-You need to be an order contact or admin for that license. Ask your admin to add you if you require access.
+You need to be an order contact for that license. Ask others in your organization to add you if you require access.
 [Detailed Guide: How to Add Users to a Specific Order](/customer-portal/manage-contacts.md#how-to-add-users-to-a-specific-order)
 
 **What if I’m close to reaching my quota?**  

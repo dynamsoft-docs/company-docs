@@ -50,7 +50,7 @@ A user must be in the contact list of that specific order to view or manage its 
 
 ## Managing and Removing Company Contacts
 
-Only the **primary contact** (admin) can manage company contacts.
+Existing contacts on file can manage company contacts.
 
 1. Go to **Account Management > Users** to view all users under your organization.
 2. If you are the primary contact, you will see options to **Set Primary Contact** or **Delete** users.
@@ -59,17 +59,17 @@ Only the **primary contact** (admin) can manage company contacts.
 
 ---
 
-## Admin Changes and Support
+## Primary User Changes and Support
 
-- There can only be **one primary contact (admin)** at a time.
-- If your current admin is leaving, they should transfer admin rights to another user.
-- If the current admin cannot do this, please contact [support@dynamsoft.com](mailto:support@dynamsoft.com) for assistance. Include the details of the current and new admin.
+- There can only be **one primary contact** at a time.
+- If your current primary user is leaving, they should transfer primary user rights to another user.
+- If the current primary user cannot do this, please contact [support@dynamsoft.com](mailto:support@dynamsoft.com) for assistance. Include the details of the current and new primary user.
 
 ---
 
 **Summary:**  
 - Add users to your company for account management.
 - Add users to *specific orders* so they can view and manage licenses for those orders.
-- Only primary contacts can make admin changes.
+- Only primary user can make primary user changes.
 
 For any issues or special requests, reach out to [support@dynamsoft.com](mailto:support@dynamsoft.com).

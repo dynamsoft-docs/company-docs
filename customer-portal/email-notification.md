@@ -27,7 +27,6 @@ Stay up to date with the latest news, product releases, and tutorials from Dynam
 To ensure specific users receive renewal reminders for a license/order:
 
 1. **Invite the user to your organization**  
-   (Admin operation—users cannot invite themselves.)
    - Go to **Account Management > Users** in the Customer Portal.
    - Enter the email address and select your company, then click **Invite**.
    - The invited user will receive an email and must accept the invitation.
@@ -52,7 +51,7 @@ If a user no longer wishes to receive renewal reminders for a specific order:
 
 ![Unsubscribe Example]({{site.assets}}img/Unsubscribe-1.png)
 
-Or, as the admin, you can remove them from the order’s contact list, which will also remove their access to view license details for that order.
+Or, you can remove them from the order’s contact list, which will also remove their access to view license details for that order.
 
 ---
 
