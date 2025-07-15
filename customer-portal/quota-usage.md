@@ -48,6 +48,7 @@ Quota usage shows how much of your license’s total allocation (devices, scans,
 
 **Why don’t I see usage details?**  
 You need to be an order contact or admin for that license. Ask your admin to add you if you require access.
+[Detailed Guide: How to Add Users to a Specific Order](/customer-portal/manage-contacts.md#how-to-add-users-to-a-specific-order)
 
 **What if I’m close to reaching my quota?**  
 You can [expand your quota](/customer-portal/expand-quota.md) at any time, or contact [support@dynamsoft.com](mailto:support@dynamsoft.com) for advice.

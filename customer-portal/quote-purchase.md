@@ -24,7 +24,7 @@ You can pay directly via the [Dynamsoft Customer Portal](https://www.dynamsoft.c
 
 1. Log in to the Customer Portal.
 2. Select **Quote** from the left menu to view your quote list.
-3. Find your quote and click the **Convert to Order** icon in the Operations column.
+3. Find your quote and click the **Convert to Order** icon under the "**Operations**" column.
 ![Pay Quote in Customer Portal]({{site.assets}}img/customer-portal-quote-2.png)
 
 ### Option 2: Pay Online via Quote Email

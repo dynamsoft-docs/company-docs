@@ -38,7 +38,7 @@ To add a new contact to your company account:
 To give a user access to license details for a specific order:
 
 1. Go to **Order > My Orders** in the Customer Portal.
-2. Find the relevant order and click **Manage Contacts** in the Operations column.
+2. Find the relevant order and click **Manage Contacts** under the "**Operations**" column.
 3. Add the user's email to the order’s contact list.
 
 ![Order Contact List]({{site.assets}}img/customer-portal-account-contacts-2.png)
