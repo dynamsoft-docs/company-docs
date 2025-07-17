@@ -6,19 +6,30 @@ description: Customer Portal index page
 breadcrumbText: Customer Portal
 ---
 
-
 # Customer Portal Guide
 
-## About this documentation
+## About This Documentation
 
-This  helps you to learn more about Dynamsoft customer portal.
+This guide helps you learn how to use the Dynamsoft Customer Portal for all major tasks, from trial to purchase, license management, renewals, and notifications.
 
-- [Request a trial license](trial-license.md)
-- [Purchase by a quote](quote-purchase.md)
-- [Get full license and product](full-license.md)
-- [Request upgrade](request-upgrade.md)
-- [Renew license or maintenance](renewal.md)
-- [Expand quota of runtime license](expand-quota.md)
-- [Manage contacts](manage-contacts.md)
-- [Email notification](email-notification.md)
-- [FAQ](faq.md)
+---
+
+## Portal Topics
+
+- **Getting Started**
+  - [Request a Trial License](trial-license.md)
+  - [Purchase by a Quote](quote-purchase.md)
+  - [Get Full License and Product](full-license.md)
+
+- **License Management**
+  - [Request Upgrade](request-upgrade.md)
+  - [Renew License or Maintenance](renewal.md)
+  - [Expand Quota of Runtime License](expand-quota.md)
+  - [Check Quota Usage](quota-usage.md)
+
+- **Account and Communication**
+  - [Manage Contacts](manage-contacts.md)
+  - [Email Notification](email-notification.md)
+
+- **General Help**
+  - [FAQ](faq.md)

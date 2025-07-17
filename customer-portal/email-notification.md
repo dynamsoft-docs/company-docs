@@ -1,53 +1,60 @@
 ---
 layout: default-layout
 title: Email Notification
-keywords: subscribe, unsubscribe, email
-description: Subscribe&unsubscribe Email Notification
+keywords: subscribe, unsubscribe, email, newsletter, renewal reminder
+description: How to subscribe and unsubscribe from Dynamsoft email notifications.
 breadcrumbText: Email Notification
 needAutoGenerateSidebar: true
 ---
 
 # Email Notification
 
-## Subscribe to Newsletter
+## Subscribe to the Dynamsoft Newsletter
 
-Subscribe to our newsletter at the bottom of [our website page](https://www.dynamsoft.com/).
+Stay up to date with the latest news, product releases, and tutorials from Dynamsoft.
 
-![Subscribe1]({{site.assets}}img/Subscribe-1.png)
+- To subscribe, visit the [Dynamsoft Newsletter Subscription Page](https://www.dynamsoft.com/subscription/).
+- Select your interests (e.g., product news, monthly company newsletter) and enter your business email address.
 
-## Edit the email address or add a new email address for license/maintenance renewal notification
+![Newsletter Subscription]({{site.assets}}img/customer-portal-subscription-1.png)
 
-You need to change the contacts of the corresponding order. All contacts will receive the renewal notification.
+---
 
-Step 1: Check if the contact you want to add/edit is one user under your company.
+## Subscribe to License or Maintenance Renewal Reminders
 
-Please go to "Account Setting" - "Profile" and click "More Details" under "Company Info".
+**Only the existing users can add others to receive renewal reminder emails.**
 
-![Invite-Contact1]({{site.assets}}img/Invite-Contact-1.png)
+To ensure specific users receive renewal reminders for a license/order:
 
-You will find "User List" of your company and search if the person is listed or not.
+1. **Invite the user to your organization**  
+   - Go to **Account Management > Users** in the Customer Portal.
+   - Enter the email address and select your company, then click **Invite**.
+   - The invited user will receive an email and must accept the invitation.
 
-![Invite-Contact2]({{site.assets}}img/Invite-Contact-2.png)
+   [Detailed Guide: How to Invite Others to Your Organization](manage-contacts.md#how-to-invite-others-to-your-organization)
 
-Step 2: 
+2. **Add the user to the specific order’s contact list**  
+   - Go to **Order > My Orders**.
+   - Find the order, click **Manage Contacts**, and add the user’s email to the contact list.
 
-- Case 1: If the person is listed on "User List", please go to "Order" - "My Order" and find the specified order. There is a button "Contact" on "Operations" column. Please click it and add/edit the contact email address and specify "Contact Type". 
+   [Detailed Guide: How to Add Users to a Specific Order](manage-contacts.md#how-to-add-users-to-a-specific-order)
 
-![Invite-Contact3]({{site.assets}}img/Invite-Contact-3.png)
+**Only users in the contact list for that order will receive license or maintenance renewal reminder emails.**
 
-![Invite-Contact4]({{site.assets}}img/Invite-Contact-4.png)
+---
 
-- Case 2: If the person is not the one under your company, please invite him/her first. Please go to "Account Setting" - "Contacts", fill in the email address and choose the specified company, then click "Invite".  
+## How to Unsubscribe from Renewal Notifications
 
-![Invite-Contact5]({{site.assets}}img/Invite-Contact-5.png)
+If a user no longer wishes to receive renewal reminders for a specific order:
 
-The person who is invited will receive an Invite Confirm Email. Once he/she confirms, he/she will be listed on "User List", then repeat the process in Case 1.
+- They can click the **"unsubscribe from this list"** link found at the bottom of any renewal reminder or marketing email from Dynamsoft.
 
-## Unsubscribe from the renewal notification
+![Unsubscribe Example]({{site.assets}}img/Unsubscribe-1.png)
 
-If the contact(s) is removed from the order contacts, the person cannot check the license detail of this order any more. If you simply wish to no longer receive the renewal emails, please unsubscribe from the list by clicking the link in the email itself. 
+Or, you can remove them from the order’s contact list, which will also remove their access to view license details for that order.
 
-![Unsubscribe1]({{site.assets}}img/Unsubscribe-1.png)
+---
 
-
-
+**Note:**  
+- Removing a user from the order contacts removes both reminder emails and license access for that order.
+- For help with email preferences or contact management, contact [support@dynamsoft.com](mailto:support@dynamsoft.com).

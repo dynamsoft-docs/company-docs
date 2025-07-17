@@ -1,44 +1,60 @@
 ---
 layout: default-layout
-title: Purchase by a quote
-keywords: Customer Portal, quote, payment
-description: How to get a quote and pay it
+title: Purchase by a Quote
+keywords: Customer Portal, quote, payment, Dynamsoft, order, invoice
+description: How to request a quote and complete payment for Dynamsoft products.
 breadcrumbText: Quote
 needAutoGenerateSidebar: true
 ---
 
 # Purchase by a quote
 
-## Request a quote
+## Request a Quote
 
-You can request a quote on each of our product purchase pages.
+If you have not yet received a quote, you can submit a request through the [Dynamsoft Purchase Center](https://www.dynamsoft.com/Support/How-to-purchase-Dynamsoft-products.aspx).  
+Complete the inquiry form, and our team will provide an official quote for your chosen products.
 
-[Go to Dynamsoft Purchase Center](https://www.dynamsoft.com/Support/How-to-purchase-Dynamsoft-products.aspx)
+## Place an Order
 
-## Pay for a quote
+Once you receive an official quote, you have several options to complete your purchase:
 
-If you have received an official quote, you can pay the quote in several ways.
+### Option 1: Pay Online in Customer Portal
 
-### Pay it online:
+You can pay directly via the [Dynamsoft Customer Portal](https://www.dynamsoft.com/customer/quote/list):
 
-- Method One:
-After logging into the portal, you will find "Quote" on the left menu list.  Please choose the one you want to pay and click "Proceed to Payment" button, then you will go to the payment page.
+1. Log in to the Customer Portal.
+2. Select **Quote** from the left menu to view your quote list.
+3. Find your quote and click the **Convert to Order** icon under the "**Operations**" column.
+![Pay Quote in Customer Portal]({{site.assets}}img/customer-portal-quote-2.png)
 
-![Pay-Quote1]({{site.assets}}img/Pay-Quote-1.png)
+### Option 2: Pay Online via Quote Email
 
-- Method Two:
-In "Operation" column, you will see "Send Email" button. You can click it to send the quote email to "User Email" or other email addresses you want. In the quote email, there is a button named "Create Order", you can also pay the quote online by clicking it.
+Open your official quote email and click the **Pay Order** button at the bottom of the email.  
+You will be redirected to a secure payment page to complete your purchase.
+![Pay Quote in Email]({{site.assets}}img/customer-portal-quote-3.png)
 
-![Pay-Quote2]({{site.assets}}img/Pay-Quote-2.png)
+### Option 3: Send a Purchase Order (PO)
 
-- Method Three:
-On the quote pdf, you will find a link listed on "Payment Options", you can use this link to pay the quote online.
+If your organization requires purchase orders:
 
-![Pay-Quote2]({{site.assets}}img/Pay-Quote-3.png)
+- Fax your signed purchase order to **1-844-245-7565**,  
+  **or**
+- Email a digital copy to our [sales team](mailto:sales@dynamsoft.com).
 
-### Pay it via Wire Transfer or Check
+We will process your PO within one business day and send you an invoice for payment.
 
-Please check the payment info in "Payment Options" 1 & 3  on the quote pdf.
+---
+
+## Payment Methods
+
+Dynamsoft accepts payment by credit card, PayPal, Wire Transfer, and Check:
+
+![Payment Method Example]({{site.assets}}img/customer-portal-quote-4.png)
+
+---
+
+### Need Help?
+
+If you have any questions or issues with requesting or extending your trial license, feel free to [contact us](https://www.dynamsoft.com/company/contact/)—our team is ready to help.
 
 
-	

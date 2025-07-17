@@ -1,29 +1,48 @@
 ---
 layout: default-layout
 title: Full License
-keywords: full license, SDK download link
-description: Full license and full SDK download link
+keywords: full license, SDK download link, license activation, manage license
+description: How to view, activate, and manage full licenses and download SDKs from the Dynamsoft Customer Portal.
 breadcrumbText: Full License & SDK Download Link
 needAutoGenerateSidebar: true
 ---
 
 # Full License
 
-## View and activate the purchased license(s)
+## View and Activate Your Purchased License(s)
 
-You can find your purchased license(s) in **[Customer Portal - License - Full License](https://www.dynamsoft.com/customer/license/fullLicense)**. 
+You can find all your purchased licenses in the [Customer Portal - Full License](https://www.dynamsoft.com/customer/license/fullLicense).
+![Full-License1]({{site.assets}}img/customer-portal-full-license-1.png)
 
-![Full-License1]({{site.assets}}img/Full-License-1.png)
+For some licenses, activation is required before they can be used. Click **Activate** as indicated to enable the license.
 
-For some licenses, you need to activate them before using it. 
+---
 
-![Full-License2]({{site.assets}}img/Full-License-2.png)
+## License Details
 
+To view details for a license, click the **License Detail** button on the relevant activated license.
+![License Details]({{site.assets}}img/customer-portal-full-license-3.png)
 
-## Get the full SDK download link of the relevant product
+This page shows your license key, linked project, and deployment information.
 
-You can find the full SDK download link by clicking "Detail" - "Download SDK".
+---
 
-![SDK-Download1]({{site.assets}}img/SDK-Download-1.png)
+## Manage License
 
-You can also find download links for older versions of our products in the  **[Download Center](https://www.dynamsoft.com/customer/download) - Download Products** 
+Click the **Manage** button for more license management options, including:
+![Manage License]({{site.assets}}img/customer-portal-full-license-2.png)
+- **Usage Statistics**: View license usage and activity.
+- **Add Quota**: Purchase and add additional license quota.
+- **Upgrade**: Upgrade to a newer SDK version.
+- **Order Detail**: View your original order information.
+- **Download SDK**: Access the relevant SDK download.
+
+---
+
+## Downloading Older SDK Versions
+
+You can also find download links for older versions of Dynamsoft products in the [Download Center](https://www.dynamsoft.com/customer/download).
+
+---
+
+If you need assistance with activation, managing quotas, or finding the right SDK, please contact [Dynamsoft support](https://www.dynamsoft.com/company/contact/).

@@ -1,22 +1,36 @@
 ---
 layout: default-layout
-title: Request free upgrade
-keywords: upgrade
-description: Request free upgrade
+title: Request Free Upgrades
+keywords: upgrade, license upgrade, SDK upgrade, Dynamsoft
+description: How to request a free upgrade for your Dynamsoft license.
 breadcrumbText: Upgrade License
 needAutoGenerateSidebar: true
 ---
 
-# Request Upgrade 
+# Upgrade Requests
 
-## Check Maintenance Status to Determine if Upgrade is Free
+![Upgrade License]({{site.assets}}img/customer-portal-upgrades.png)
 
-If the maintenance of your license(s) is valid, you can request to upgrade it for free. Otherwise, you need to pay for the upgrade.
+## Annual Licenses
 
-You can check the maintenance of your license(s) in **[Customer Portal - License - Full License](https://www.dynamsoft.com/customer/license/fullLicense)**. "Usage/Service Expiry Date" for each license means the license or maintenance expiry date.
+Active annual licenses are eligible for free major version upgrades.  
+To request an upgrade, click **Manage > Upgrade** for your license. This will open your email client so you can send an upgrade inquiry to our sales team.
 
-![Service-Expiry1]({{site.assets}}img/Service-Expiry-1.png)
+## Perpetual Licenses
 
-## Request for a free upgrade of the license(s)
+If your license includes valid maintenance, you are eligible for free upgrades.  
+If maintenance has expired, please request an upgrade quote from our [sales team](mailto:sales@dynamsoft.com).
 
-If you want to upgrade your license from the old version to the newer version, you can click "Upgrade" button under "Manage", or contact us via email <sales@dynamsoft.com>.
+## How to Request a Free Upgrade
+
+To upgrade your license to a newer version:
+
+- Click the **Upgrade** option under the **Manage** menu for the relevant license,  
+  **or**
+- Contact our team directly at [sales@dynamsoft.com](mailto:sales@dynamsoft.com).
+
+Provide your license details in your email to help us process your request efficiently.
+
+---
+
+If you have questions about your upgrade eligibility, maintenance status, or the upgrade process, please contact our [sales team](mailto:sales@dynamsoft.com)—we’re here to help!

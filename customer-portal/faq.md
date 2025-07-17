@@ -1,54 +1,140 @@
 ---
 layout: default-layout
 title: FAQ
-keywords: Customer Portal, FAQ
-description: This page is about general FAQ for Customer Portal.
+keywords: Customer Portal, FAQ, license, renewal, quota, contacts, upgrade, subscription
+description: General FAQ for Dynamsoft Customer Portal.
 breadcrumbText: FAQ
 needAutoGenerateSidebar: true
 ---
 
 # FAQ
 
-## My company has purchased the license(s). Why do I see no license info in my account? 
+## License Management
 
-You are not the one who purchased the license and your email address is not one of the order contacts. Please follow the steps on [How do I invite other contact to access the Dynamsoft license I purchased?](#how-do-i-invite-other-contacts-to-access-the-dynamsoft-license-i-purchased)
+### My company has purchased a license. Why don’t I see any license info in my account?
+You are likely not listed as an order contact for that license. Only users added to the **order’s contact list** can view license details.  
+1. Let others on the contact list to invite you to your company account via **Account Management > Users**.  
+[Detailed Guide: How to Invite Others to Your Organization](manage-contacts.md#how-to-invite-others-to-your-organization)
+![Invite Contact]({{site.assets}}img/customer-portal-account-contacts-1.png)
+2. They also need to add you to the specific order’s contact list via **Order > My Orders > Manage Contacts**.  
+Only after these steps will they see license/order details and receive relevant email notifications.
+[Detailed Guide: How to Add Users to a Specific Order](manage-contacts.md#how-to-add-users-to-a-specific-order)
+![Order Contact List]({{site.assets}}img/customer-portal-account-contacts-2.png)
 
-If you are one of the order contacts, but you still cannot see the license detail of this order, please contact us <support@dynamsoft.com>. 
+---
 
-	
-## How do I invite other contact(s) to access the Dynamsoft license I purchased?
+### What is the difference between company contacts and order contacts?
 
-Once you purchased a license, your developer may want to get the license from the portal directly.
+- **Company contacts** have access to account management and can be assigned as primary user.
+- **Order contacts** are specific to each purchase/order, and only these users can view license details or receive license/renewal reminders for that order.
 
-Step 1: Check if the contact you want to add is one user under your company.
+---
 
-Please go to "Account Setting" - "Profile" and click "More Details" under "Company Info".
+### How do I remove someone’s access to a license?
 
-![Invite-Contact1]({{site.assets}}img/Invite-Contact-1.png)
+Remove their email from the order’s contact list using **Order > My Orders > Manage Contacts**.  
+They will lose access to license details and stop receiving notifications for that order.
 
-You will find "User List" of your company and search if the person is listed or not.
+---
 
-![Invite-Contact2]({{site.assets}}img/Invite-Contact-2.png)
+## License Renewal & Maintenance
 
-Step 2: 
+### How do I renew my annual license or maintenance?
 
-- Case 1: If the person is listed on "User List", please go to "Order" - "My Order" and find the specified order. There is a button "Contact" on "Operations" column. Please click it and add the contact email address and specify "Contact Type". Then the new contact of this order can check the order detail and its license detail.
+Go to **Order > Full License** or **Order > Upcoming Renewal**, select the licenses you wish to renew, and click **Renew Now** or **Renew Selected**.  
+For more, see: [Renewal Guide](/customer-portal/renewal.md)
 
-![Invite-Contact3]({{site.assets}}img/Invite-Contact-3.png)
+![Renew Multiple or Single License]({{site.assets}}img/customer-portal-renew-license-1.png)
 
-![Invite-Contact4]({{site.assets}}img/Invite-Contact-4.png)
 
-- Case 2: If the person is not the one under your company, please invite it first. Please go to "Account Setting" - "Contacts", fill in the email address and choose the specified company, then click "Invite".  
+---
 
-![Invite-Contact5]({{site.assets}}img/Invite-Contact-5.png)
+## Upgrades & Quota
 
-The person who is invited will receive an Invite Confirm Email. Once he/she confirms, he/she will be listed on "User List", then repeat the process in Case 1.
+### Am I eligible for a free upgrade?
 
-## How can I remove my account? 
+- **Annual licenses:** Free upgrades for all valid annual licenses.
+- **Perpetual licenses:** Free upgrade if maintenance is still valid.
 
-Please contact us via email <sales@dynamsoft.com> to remove the account.
+See: [Upgrade Guide](/customer-portal/request-upgrade.md)
 
-## Can I change the email address of my Dynamsoft account?
+---
 
-No, you cannot do it in the customer portal. Please contact to <sales@dynamsoft.com>.
+### How can I increase my license quota?
 
+Go to **Order > Full License**, select **Manage > Add Quota** for your license, then complete the checkout process.  
+See: [Quota Expansion Guide](/customer-portal/expand-quota.md)
+
+![Add Quota Step 1]({{site.assets}}img/customer-portal-quota-expansion-1.png)
+
+---
+
+## Orders & Payment
+
+### How do I request a quote and complete payment?
+
+You can request a quote in the [Purchase Center](https://www.dynamsoft.com/Support/How-to-purchase-Dynamsoft-products.aspx), and pay online via the Customer Portal or the link in your quote email.  
+See: [How to Purchase by Quote](/customer-portal/quote-purchase.md)
+
+---
+
+### What payment methods are supported?
+
+We accept credit card, PayPal, wire transfer, and check.
+
+![Payment Method Example]({{site.assets}}img/customer-portal-quote-4.png)
+
+---
+
+## Email Notifications
+
+### How do I subscribe to or unsubscribe from Dynamsoft newsletters?
+
+Visit the [Newsletter Subscription Page](https://www.dynamsoft.com/subscription/) to manage your subscriptions.  
+To unsubscribe from marketing emails, click the **unsubscribe** link in any marketing email.
+
+---
+
+### How do I manage license/renewal reminder emails?
+
+Only order contacts receive renewal notifications.  
+To unsubscribe, either:
+- Click the unsubscribe link in a renewal reminder email, **or**
+- Ask other people in your organization to remove you from the order contacts.
+
+![Unsubscribe Example]({{site.assets}}img/Unsubscribe-1.png)
+
+---
+
+## Account Management
+
+### How do I change the primary contact for my organization?
+
+Only the current primary contact can assign a new primary contact. If the current primary contact has left and cannot make the change, email [support@dynamsoft.com](mailto:support@dynamsoft.com) for help.
+
+---
+
+### Can I change the email address for my Dynamsoft account?
+
+No, email addresses cannot be changed in the portal. Please contact [sales@dynamsoft.com](mailto:sales@dynamsoft.com) for assistance.
+
+---
+
+### How do I remove my account?
+
+Please contact [sales@dynamsoft.com](mailto:sales@dynamsoft.com) to request account removal.
+
+---
+
+## Trial Licenses
+
+### How do I request or extend a trial license?
+
+Request a free trial or extension via the **Trial License** section in the Customer Portal. Most trials can be extended up to two times.  
+See: [Trial License Guide](/customer-portal/trial-license.md)
+
+![License-TrialLicense1]({{site.assets}}img/customer-portal-trial-license.png)
+
+---
+
+For further questions or documentation feedback, contact [support@dynamsoft.com](mailto:support@dynamsoft.com).

@@ -1,72 +1,70 @@
 ---
 layout: default-layout
 title: Renew Annual License or Maintenance
-keywords: renewal, maintenance, annual license
-description: This page is about renewal for Customer Portal.
+keywords: renewal, maintenance, annual license, license renewal, Dynamsoft
+description: How to renew your Dynamsoft license or maintenance from the Customer Portal.
 breadcrumbText: Renewal
 needAutoGenerateSidebar: true
 ---
 
 # Renew Annual License or Maintenance
 
-## Renew the annual license
+## Renewal Reminders
 
-When there are 90 days left on your annual license, you will begin to receive our renewal reminder emails. We usually send a series of annual license renewal follow-up emails (90 days before expiration, 60 days, 30 days, 14 days, 7 days, and the expiry date) to the order contacts. 
+You will receive automated renewal reminder emails for your annual licenses and maintenance contracts starting 90 days before expiration. Reminders are sent at 90, 60, 30, 14, 7 days before expiry, and on the expiry date, to your registered order contacts.
 
-- **Method One**
+---
 
-    You can go to **"License - Full License"** and find the Annual license which you want to renew. By clicking "Renew Now", you will go to Check Out page.
+## How to Renew Your Annual License
 
-    ![Renew-License-0-1]({{site.assets}}img/Renew-License-0-1.png)
+There are two convenient ways to renew your licenses directly in the Customer Portal:
 
-    You can also renew multiple licenses at one time by checking multiple licenses and clicking "Renew Selected".
+### Method 1: Renew from the "Full License" Page
 
-    ![Renew-License-0-2]({{site.assets}}img/Renew-License-0-2.png)
+1. Go to **Order > Full License** in the [Customer Portal](https://www.dynamsoft.com/customer/license/fullLicense).
+2. Find the annual license(s) you wish to renew.
+3. To renew a single license, click **Renew Now** next to the license's expiry date.
+4. To renew multiple licenses in a single order, check the boxes next to each license and click **Renew Selected**.
 
-- **Method Two**
+![Renew Multiple or Single License]({{site.assets}}img/customer-portal-renew-license-1.png)
 
-    You can go to "Order" - "Upcoming Renewal" and check "Renew Annual License" tab. You will find all the license(s) which could be renewed.
+---
 
-    You can check all or one of them to renew.
+### Method 2: Renew from the "Upcoming Renewal" Page
 
-    ![Renew-License1]({{site.assets}}img/Renew-License-1.png)
+1. Go to **Order > Upcoming Renewal** in the Customer Portal.
+2. Under the **Renew Annual License** tab, select the licenses you want to renew.
+3. Click **Renew Selected** to proceed with renewal for one or more licenses in a single transaction.
 
-- **Method Three**
+![Renew from Upcoming Renewal]({{site.assets}}img/customer-portal-renew-license-2.png)
 
-    You can also send email <sales@dynamsoft.com> to ask for official quote or proforma invoice to process the renewal order.
+---
 
-## Renew the software maintenance with Dynamsoft
+### Method 3: Request a Renewal Quote by Email
 
-When there are 90 days left on your maintenance contract, you will begin to receive our renewal reminder emails. We usually send a series of maintenance renewal follow-up emails (90 days before expiration, 60 days, 30 days, 14 days, 7 days, and the expiry date) to the order contacts. 
+If you prefer to handle renewals manually or need a proforma invoice, email your request to [support@dynamsoft.com](mailto:support@dynamsoft.com).  
+Please include your license/order details for faster processing.
 
-- **Method One**
+---
 
-    You can go to **"License - Full License"** and find the Lifetime license which you want to renew the maintenance. By clicking "Renew Now", you will go to Check Out page.
+## How to Renew Maintenance (for Lifetime/Perpetual Licenses)
 
-    ![Renew-AMC-0-1]({{site.assets}}img/Renew-AMC-0-1.png)
+- Follow the same steps as above, but select the **Renew Support and Maintenance** tab on the **Upcoming Renewal** page.
+- You can also renew maintenance for multiple licenses in one transaction by selecting them and clicking **Renew Selected**.
 
-    You can also renew the maintenance of multiple licenses at one time by checking multiple licenses and clicking "Renew Selected".
+---
 
-    ![Renew-AMC-0-2]({{site.assets}}img/Renew-AMC-0-2.png)
+## If Your License or Maintenance Has Already Expired
 
+If your license or maintenance has expired, please contact [support@dynamsoft.com](mailto:support@dynamsoft.com) for assistance with late renewals or reactivation options.
 
-- **Method Two**
+---
 
-    You can go to "Order" - "Upcoming Renewal" and check "Renew Support and Maintenance" tab. You will find all the license(s) whose maintenance could be renewed.
+## Aligning Renewal Dates Across Multiple Licenses
 
-    You can check all or one of them to renew.
+If you would like to synchronize the renewal/expiration dates of multiple licenses or contracts, please contact [support@dynamsoft.com](mailto:support@dynamsoft.com) for help.
 
-    ![Renew-AMC1]({{site.assets}}img/Renew-AMC-1.png)
+---
 
-- **Method Three**
-
-    You can also send email <sales@dynamsoft.com> to ask for official quote or proforma invoice to process the renewal order. 
-
-## Renew an item which has already expired
-
-Please contact us via email <support@dynamsoft>.
-
-## Align renewal date for multiple orders
-
-Please contact us via email <support@dynamsoft>.
-
+**Need further assistance?**  
+Contact us at [support@dynamsoft.com](mailto:support@dynamsoft.com)—we’re here to help with all renewal questions.
