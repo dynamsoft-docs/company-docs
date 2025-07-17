@@ -37,7 +37,7 @@ This guide explains how to check license quota usage for your Dynamsoft licenses
    - Expiry date
    - Supported modules and related information
 
-   ![Quota Usage Details](/assets/img/customer-portal-quota-usage-4.png)
+   ![Quota Usage Details]({{site.assets}}img/customer-portal-quota-usage-4.png)
 
 ---
 
