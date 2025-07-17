@@ -18,18 +18,18 @@ This guide explains how to check license quota usage for your Dynamsoft licenses
 1. Navigate to Order > [Full License](https://www.dynamsoft.com/customer/license/fullLicense).
 2. Find your license in the list and click **License Detail** under the "Operation" column.
 
-   ![License Detail Button](/assets/img/customer-portal-quota-usage-1.png)
+   ![License Detail Button]({{site.assets}}img/customer-portal-quota-usage-1.png)
 
 3. On the License Details page, click **Manage the License** at the top.
 
-   ![Manage the License](/assets/img/customer-portal-quota-usage-2.png)
+   ![Manage the License]({{site.assets}}img/customer-portal-quota-usage-2.png)
 
 4. The system will redirect you to the License Server’s project page.  
    In the left menu, select **Projects** and locate your project.
 
 5. Click **View Statistics** for the relevant project.
 
-   ![View Statistics Button](/assets/img/customer-portal-quota-usage-3.png)
+   ![View Statistics Button]({{site.assets}}img/customer-portal-quota-usage-3.png)
 
 6. You will see a detailed usage breakdown, including:
    - License type and quota (e.g., number of devices or scans)
