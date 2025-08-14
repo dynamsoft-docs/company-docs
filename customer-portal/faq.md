@@ -37,7 +37,7 @@ They will lose access to license details and stop receiving notifications for th
 
 ---
 
-### I get “user@example.com is not affiliated with this company and therefore cannot be added to Contacts.” What should I do?
+### I get “user@example.com is not linked to your organization and cannot be added to Contacts.” What should I do?
 
 ![Order Add Contact Error]({{site.assets}}img/customer-portal-order-contact-error.png)
 
