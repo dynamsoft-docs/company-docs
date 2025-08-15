@@ -37,6 +37,22 @@ They will lose access to license details and stop receiving notifications for th
 
 ---
 
+### I get “user@example.com is not linked to your organization and cannot be added to Contacts.” What should I do?
+
+![Order Add Contact Error]({{site.assets}}img/customer-portal-order-contact-error.png)
+
+This happens when the email isn’t part of your company account yet, so it can’t be added to the order’s contact list.
+
+**Fix it in two steps:**
+1. **Invite the user to your organization** via **Account Management > Users**.  
+   See: [How to Invite Others to Your Organization](manage-contacts.md#how-to-invite-others-to-your-organization)
+2. **Add the user to the specific order** via **Order > My Orders > Manage Contacts**.  
+   See: [How to Add Users to a Specific Order](manage-contacts.md#how-to-add-users-to-a-specific-order)
+
+Still stuck? Contact [support@dynamsoft.com](mailto:support@dynamsoft.com) and include your Order ID and License ID.
+
+---
+
 ## License Renewal & Maintenance
 
 ### How do I renew my annual license or maintenance?
