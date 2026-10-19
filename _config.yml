@@ -57,6 +57,11 @@ dnt_icon: /company/docs/assets/img-icon/icon-dnt.svg
 # baseurl: "<firstLevelUrl>"
 baseurl: "/company/docs"
 
+searchIndexName: Crawler-Global-Docs-New
+searchNeedFilter: true
+searchFacet: product
+searchFacetValue: company
+
 plugins:
   - jemoji
   - jekyll-sitemap
